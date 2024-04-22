@@ -24,13 +24,35 @@ cartBtn.addEventListener('click', function () {
     })
 });
 
-const delItemBtn = document.querySelector("#del");
-const item = document.querySelector(".cart-item4");
+const delItemBtn4 = document.querySelector("#del4");
+const item4 = document.querySelector(".cart-item4");
 
-delItemBtn.addEventListener('click', function () {
-    item.remove();
+delItemBtn4.addEventListener('click', function () {
+    item4.remove();
+});
+const delItemBtn1 = document.querySelector("#del1");
+const item1 = document.querySelector(".cart-item1");
+    
+delItemBtn1.addEventListener('click', function () {
+        item1.remove();
 
 });
+    
+const delItemBtn2 = document.querySelector("#del2");
+const item2 = document.querySelector(".cart-item2");
+    
+delItemBtn2.addEventListener('click', function () {
+        item2.remove();
+
+});
+    
+const delItemBtn3 = document.querySelector("#del3");
+const item3 = document.querySelector(".cart-item3");
+    
+delItemBtn3.addEventListener('click', function () {
+        item3.remove();
+
+    });
  
 const navbar = document.querySelector(".navbar");
 const menuBtn = document.querySelector("#menu-btn");
