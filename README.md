@@ -17,7 +17,7 @@ Users can view menus, see reviews about the restaurant, find the location of the
 Utilized concepts,
 - HTML
 - CSS
-- Boostrap
+- Javascript
 
 ## Getting Started
 
